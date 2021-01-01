@@ -38,9 +38,9 @@ func main() {
 	outBuffer.Write([]byte(`		
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Zibo Mod - Torrents</title>
+<title>Zibo Mod Files</title>
 <link>https://forums.x-plane.org/index.php?/forums/topic/185685-zibo-install-guide-training-checklist/</link>
-<description>Latest updates for Zibo Mod for X-Plane 11</description>
+<description>Zibo Mod Install Guide, Training Checklist and Updates</description>
 <atom:link href="https://1drv.ms/u/s!AjcwFonqlaRWgYdsjr2JbyxDPdcCvA?e=OENfhN" rel="self" type="application/rss+xml" />
 `))
 
